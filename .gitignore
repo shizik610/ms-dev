@@ -1,3 +1,11 @@
+.csv
+.txt
+.gz
+.zip
+.png
+.img
+.bmp
+
 # Object files
 *.o
 *.ko
